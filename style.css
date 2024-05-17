@@ -16,7 +16,7 @@ body {
 }
 
 .secao1__paragrafo {
-    color: #555;
+    color: #000000;
 }
 
 /* Estilos para as seções de título e parágrafo */
@@ -30,10 +30,10 @@ body {
 
 /* Estilos específicos para a segunda seção */
 .secao2__descricao {
-    background-color: #e0e0e0;
+
 }
 
 /* Estilos específicos para a terceira seção */
 .secao3__descricao {
-    background-color: #d0d0d0;
+
 }
