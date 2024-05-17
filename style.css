@@ -1,0 +1,39 @@
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para a primeira seção */
+.secao1__descricao {
+    background-color: #f0f0f0;
+    padding: 50px;
+}
+
+.secao1__titulo {
+    color: #333;
+}
+
+.secao1__paragrafo {
+    color: #555;
+}
+
+/* Estilos para as seções de título e parágrafo */
+.secao2__titulo,
+.secao3__titulo,
+.secao2__paragrafo,
+.secao3__paragrafo {
+    color: #333;
+    padding: 20px;
+}
+
+/* Estilos específicos para a segunda seção */
+.secao2__descricao {
+    background-color: #e0e0e0;
+}
+
+/* Estilos específicos para a terceira seção */
+.secao3__descricao {
+    background-color: #d0d0d0;
+}
