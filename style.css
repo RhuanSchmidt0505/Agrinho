@@ -13,8 +13,8 @@ body {
 }
 
 header {
-    background: #333;
-    color: #fff;
+    background: #047918;
+    color: #a8f3b4;
     padding: 10px 0;
     text-align: center;
 }
@@ -46,8 +46,8 @@ section h2 {
 }
 
 footer {
-    background: #00b144;
-    color: #9aecac;
+    background: #000000;
+    color: #ffffff;
     text-align: center;
     padding: 10px 0;
     position: fixed;
