@@ -8,7 +8,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #00ff2a;
+    background-color: hsl(130, 100%, 95%);
     padding: 20px;
 }
 
@@ -33,7 +33,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #a8f3b4;
+    color: #00ff2a;
     text-decoration: none;
 }
 
