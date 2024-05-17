@@ -14,8 +14,9 @@ body {
 
 .secao1__titulo {
     color: #333;
-
+    text-align: center; /* Centraliza o texto */
 }
+
 
 .secao1__paragrafo {
     color: #000000;
